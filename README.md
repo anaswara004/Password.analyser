@@ -7,5 +7,4 @@ Dictionary word detection
 <br>
 Sequence detection
 <br>
-<br>
 Strength classification 
